@@ -1,0 +1,23 @@
+{
+  "name": "improved-development-workflow-and-debugging",
+  "version": "1.0.0",
+  "description": "This is a simple project to demonstrate how to improve development workflow and debugging in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamezCh/Improved-Development-Workflow-and-Debugging.git"
+  },
+  "author": "RamezCh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamezCh/Improved-Development-Workflow-and-Debugging/issues"
+  },
+  "homepage": "https://github.com/RamezCh/Improved-Development-Workflow-and-Debugging#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
